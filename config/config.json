@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "dawamr",
+    "password": "dawamraja",
+    "database": "db_nodex",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "dawamr",
+    "password": "dawamraja",
+    "database": "db_nodex",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "dawamr",
+    "password": "dawamraja",
+    "database": "db_nodex",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
